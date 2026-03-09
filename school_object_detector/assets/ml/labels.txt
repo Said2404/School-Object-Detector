@@ -1,0 +1,9 @@
+eraser
+glue_stick
+highlighter
+pen
+pencil
+ruler
+scissors
+sharpener
+stapler
