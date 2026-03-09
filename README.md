@@ -1,8 +1,28 @@
+
+
 # 🎒 School Object Detector (SAE 5.01)
 
-> Application mobile de reconnaissance et de classement de matériel scolaire en temps réel avec apprentissage actif.
+<p align="center">
+	<img src="ImagesAppli/Screenshot_20260211_204352.webp" alt="Accueil App" width="400" />
+</p>
 
-## 📖 À propos du projet
+> **Projet réalisé en groupe dans le cadre de la SAE 5.01 (Situation d'Apprentissage et d'Évaluation) - Développement Avancé.**
+
+La SAE 5.01 est un module universitaire visant à mettre en pratique des compétences avancées en développement logiciel, gestion de projet, et collaboration. Le but est de concevoir une application innovante en équipe, en suivant un cahier des charges précis, tout en appliquant des méthodes professionnelles (Git, documentation, tests, CI/CD, etc.).
+
+Ce projet a été conçu pour mon portfolio afin de mettre en avant le travail d'équipe, la gestion de l'IA embarquée, et l'intégration de cycles d'apprentissage actif.
+
+
+## 🖼️ Aperçu du Projet
+
+
+Vous trouverez toutes les captures d'écran et photos du projet dans le dossier `ImagesAppli` à la racine.
+
+👉 [Voir la galerie complète](Gallery.md)
+
+Pour le portfolio, il est possible d'inclure quelques images directement dans ce README (voir ci-dessous), ou de créer une galerie dédiée.
+
+---
 
 Ce projet a été réalisé dans le cadre de la **SAE 5.01 - Développement Avancé**. L'objectif est de développer une application mobile capable de détecter, identifier et classer des objets du monde réel (ici, du matériel scolaire) en temps réel via la caméra du smartphone.
 
