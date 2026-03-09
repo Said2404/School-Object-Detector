@@ -20,8 +20,6 @@ Vous trouverez toutes les captures d'écran et photos du projet dans le dossier 
 
 👉 [Voir la galerie complète](Gallery.md)
 
-Pour le portfolio, il est possible d'inclure quelques images directement dans ce README (voir ci-dessous), ou de créer une galerie dédiée.
-
 ---
 
 Ce projet a été réalisé dans le cadre de la **SAE 5.01 - Développement Avancé**. L'objectif est de développer une application mobile capable de détecter, identifier et classer des objets du monde réel (ici, du matériel scolaire) en temps réel via la caméra du smartphone.
